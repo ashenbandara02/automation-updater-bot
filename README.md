@@ -1,5 +1,3 @@
-
-```markdown
 # 🤖 Automation Updater Bot
 
 Welcome to the **Automation Updater Bot** repository! This project is designed to streamline the process of updating applications on Linux systems by automating tasks such as downloading updates, creating changelogs, and sending notifications. By integrating these functionalities, the bot ensures that your applications remain current with minimal manual intervention.
